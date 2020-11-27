@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+
 body {
     background-color: #d9dcd6;
 }
 
+/* header style defining font family color and other attributes*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/* header and h1 tag inline block */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* header h1 seo color */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* header div styles */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +36,28 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* header div ul */
 .header div ul {
     list-style-type: none;
 }
 
+/* header div ul li tag*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* a tag color and text- decoration style */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* paragraph tag font size*/
 p {
     font-size: 16px;
 }
-
+/* loads front in page */
 .hero {
     height: 900px;
     width: 100%;
@@ -59,6 +67,7 @@ p {
     background-position: center;
 }
 
+/* float left classes */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +78,14 @@ p {
     margin-left: 25px;
 }
 
+/* content width, dislplay, margin-left */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* benefits class style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
