@@ -13,6 +13,5 @@ Horiseon is a web application which consists numerous features including search 
  3. online and social media management pic
  ![online and social](screenshots/online-and-social.JPG)
 
- ## link of repository and url of application
- 1. Repository: 
- 2. URL: 
+ ## link application's URL
+ 1. URL: https://sthasub.github.io/horiseon/
